@@ -13,6 +13,8 @@
 4. press LAUCH to percolate from the top of the lattice
 5. exit after pressing LAUNCH
 
+![GitHub Logo](/percolator.png)
+
 
 
 
