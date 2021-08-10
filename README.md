@@ -1,5 +1,5 @@
 ## To compile Percolation.c
-1. Download the fime ```compi_c``` by following the instruction here (in french):
+1. Download the file ```compi_c``` by following the instruction here (in french):
  * ```http://www-igm.univ-mlv.fr/ens/Common/libMlv/install.php```
 2. copy the file ```compi_c``` in the directory where ```Percolation.c``` is saved.
 3. run ```chmod +x compi_c ```
